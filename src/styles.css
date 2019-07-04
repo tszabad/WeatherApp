@@ -1,0 +1,20 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  background-color: rgb(229, 244, 245);
+  background-image: url("images/clouds.jpg");
+}
+img {
+  width: 40%;
+  height: auto;
+}
+.main {
+  max-width: 450px;
+  padding: 10px;
+  background-image: url("https://uploads.codesandbox.io/uploads/user/560f3612-1344-4332-81dc-dbb073d44783/D3Og-clouds.jpg");
+  background-attachment: fixed;
+  background-size: cover;
+  color: white;
+}
